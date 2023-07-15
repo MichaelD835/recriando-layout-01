@@ -1,0 +1,86 @@
+body {
+  width: 1024px;
+  height: 790px;
+  margin: auto;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  
+}
+
+#main {
+  width: 626px;
+  height: 486px;
+  margin: 64px auto 64px;
+}
+
+#img-planet {
+  width: 350px;
+  height: 238px;
+  margin: 0 auto 32px;
+}
+
+h1 {
+  width: 494px;
+  color: #3F3D56;
+  text-align: center;
+  font-family: 'Dosis', sans-serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;  
+  margin: 0 auto 16px;
+}
+
+h1 span {
+  color: #EE24FF;
+  font-weight: bold;
+}
+
+p {
+  width: 540px;
+  height: 107;
+  color: #828282;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400px;
+  line-height: 22px;
+  margin: 0 auto 32px;
+}
+
+p strong {
+  color: #3F3D56;
+}
+
+p #strong2 {
+  color: #828282;
+}
+
+#p1 {
+  width: 626px;
+  margin: 0 auto 64px;
+}
+
+a {
+  color: #3F3D56;
+  font-style: bold;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+
+#footer a + a {
+  margin-left: 42px;
+  font-weight: 700px;
+  font-style: bold;
+  color: #3F3D56;
+}
+
+.line {
+  width: 391px;
+  margin: 0 auto 16px;
+  border: solid #ECEFF2 1px;
+}
+
+#img-wave {
+  margin-top: 30px;
+}
